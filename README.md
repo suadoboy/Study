@@ -24,5 +24,5 @@ To get started with the Python URL Shortener, follow these steps:
 The Python URL Shortener provides a command-line interface to shorten URLs. You can pass a long URL as an argument to the `shorten` command, and it will generate a shortened link for you:
 python main.py shorten "https://www.example.com/very/long/url"
 
-
-
+### Code view
+![image](https://github.com/suadoboy/Study/assets/64054172/d5651563-6d78-4431-a922-6a9b78af0411)
